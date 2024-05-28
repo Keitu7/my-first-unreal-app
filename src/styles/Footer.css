@@ -1,0 +1,29 @@
+.footer {
+    height: 150px;
+    width: 100%;
+    background-color:  darkslategrey;
+    margin-top: 200px;
+    padding-top: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.email {
+    color: azure;
+    font-size: 34px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.footer p{
+    color: rgba(240, 255, 255, 0.87);
+}
+
+@media  only screen  and (max-width: 600px){
+    .footer svg{
+        font-size: 45px;
+}
+    
+}
