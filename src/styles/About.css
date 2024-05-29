@@ -28,6 +28,12 @@
     margin-left: 480px;
     margin-top: -180px;
     background-size: 40%;
+    transition: ease-out 1.5s;
+}
+
+.designbkImage:hover{
+    background-size: 50%;
+    transition: ease-in-out 1s;
 }
 
 .designborder{
@@ -112,4 +118,140 @@
     font-size: 20px;
     padding-right: 100px;
     margin-top: 60px;
+}
+
+.home h3{
+    font-size: 140px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: 50px;
+    margin-left: -580px;
+}
+
+.theorybkImage{
+    background-image: url(../imagesVideos/pexels-steve-2007087.jpg);
+    width: 1020px;
+    height: 320px;
+    margin-left: 480px;
+    margin-top: -220px;
+    background-size: 40%;
+    cursor: pointer;
+    transition: ease-out 1.5s;
+
+}
+
+.theorybkImage:hover{
+    background-size: 50%;
+    transition: ease-in-out 1s;
+}
+
+.theoryborder{
+    border: solid black 1.5px;
+    width: 1200px;
+    height: 1100px;
+    text-align: center;
+    margin: 200px;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.t1{
+    background-image: url(../imagesVideos/Picture1.jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 20px;
+    margin-top: -10px;
+    background-size: 100%;
+}
+
+.t2{
+    background-image: url(../imagesVideos/Picture2.jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 620px;
+    margin-top: -335px;
+    background-size: 100%;
+}
+
+.theory1{
+    color: bisque;
+    font-size: 20px;
+    padding-right: 100px;
+}
+
+.theory2{
+    color: bisque;
+    font-size: 20px;
+    padding-right: 100px;
+}
+
+.home h4{
+    font-size: 140px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: 50px;
+    margin-left: -580px;
+}
+
+
+.essaybkImage{
+    background-image: url(../imagesVideos/pexels-steve-1509534.jpg);
+    width: 1020px;
+    height: 320px;
+    margin-left: 480px;
+    margin-top: -280px;
+    background-size: 40%;
+    cursor: pointer;
+    transition: ease-out 1.5s;
+
+}
+
+.essaybkImage:hover{
+    background-size: 50%;
+    transition: ease-in-out 1s;
+}
+
+.essayborder{
+    border: solid black 1.5px;
+    width: 1200px;
+    height: 1700px;
+    text-align: center;
+    margin: 200px;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.essay1{
+    color: bisque;
+    font-size: 30px;
+}
+
+.essay2{
+    color: bisque;
+    font-size: 20px;
+}
+
+.essay3{
+    color: bisque;
+    font-size: 20px;
+}
+
+.essay4{
+    color: bisque;
+    font-size: 20px;
+}
+
+.essay5{
+    color: bisque;
+    font-size: 20px;
+}
+
+.essay6{
+    color: bisque;
+    font-size: 20px;
+}
+
+.essay7{
+    color: bisque;
+    font-size: 20px;
 }
