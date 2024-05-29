@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/About.css';
+import '../styles/newAbout.css'
 
 function About() {
     return (
@@ -14,12 +14,12 @@ function About() {
                     I had to find the best suited theme to potray my new learnt skills and found that designing a portfolio would be better suited for me as learning and implementing all the learn knowledge of react was fairly overwhelming for me.
                     Therefore, designing something familiar was a rather 'safer'option.
                     Below are the wireframes, colour scheme and inspiration images/references.</p>
-                    <div className='w1'></div>
-                    <div className='w2'></div>
-                    <div className='w3'></div>
-                    <div className='w4'></div>
-                    <div className='w5'></div>
-                    <div className='w6'></div>
+                    <div className='wire1'></div>
+                    <div className='wire2'></div>
+                    <div className='wire3'></div>
+                    <div className='wire4'></div>
+                    <div className='wire5'></div>
+                    <div className='wire6'></div>
                     <p className='design2'>
                     Style guide:
                     The colour palette explored and used throughout this website design makes use of tones of yellow, green, and a darker shade of blue. 
