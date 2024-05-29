@@ -28,3 +28,5 @@ function Home() {
 }
 
 export default Home;
+
+//image source: Photo by GEORGE DESIPRIS:< https://www.pexels.com/photo/black-cruiser-motorcycle-899238/>. Accessed: 29 May 2024.//

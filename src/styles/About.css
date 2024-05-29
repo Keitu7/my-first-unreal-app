@@ -1,0 +1,14 @@
+.bkImage{
+    background-image: url(../imagesVideos/pexels-jdgromov-7974827.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 100%;
+}
+
+.header{
+    font-size: 180px;
+    font-weight: lighter;
+    color: white;
+    margin-top: -380px;
+    margin-left: -250px;
+}

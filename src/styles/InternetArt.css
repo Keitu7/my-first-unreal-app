@@ -1,0 +1,48 @@
+.bkgImage{
+    background-image: url(../imagesVideos/pexels-neo-853421-2653362\ \(1\).jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 100%;
+}
+
+.artBorder{
+    border: solid black 3px;
+    width: 900px;
+    height: 500px;
+    text-align: center;
+    margin: 300px;
+    padding: 20px;
+    margin-top: 290px;
+}
+
+.artHeading{
+    font-size: 140px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: -170px;
+    margin-left: -280px;
+}
+
+.artHeadingbkg{
+    background-image: url(../imagesVideos/pexels-rkftr-4335772.jpg);
+    width: 1020px;
+    height: 360px;
+    margin-left: 480px;
+    margin-top: -180px;
+    background-size: 40%;
+}
+
+.paraBorder{
+    border: solid black 3px;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    margin: 300px;
+    padding: 20px;
+    margin-top: -03px;
+}
+
+.para{
+    color: bisque;
+    font-size: 30px;
+}
