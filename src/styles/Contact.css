@@ -1,0 +1,58 @@
+.bg{
+    background-image: url(../imagesVideos/pexels-francesco-ungaro-3931028.jpg);
+    width: 100%;
+    height: 700px;
+    background-size: 100%;
+}
+
+.heading {
+    font-size: 180px;
+    font-weight: lighter;
+    color: white;
+    margin-top: -400px;
+    margin-left: -720px;
+}
+
+.emails {
+    color: white;
+    margin-top: 140px;
+    margin-left: 1040px;
+    font-size: 35px;
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+.write{
+    color: rgb(176, 169, 169);
+    font-size: 20px;
+    margin-top: -890px;
+    margin-left: -570px;
+    padding: 49%;
+}
+
+.heading2{
+    color: rgb(176, 169, 169);
+    font-size: 150px;
+    margin-top: -600px;
+    padding: 130px;
+    margin-left: -390px;
+    font-weight: lighter;
+}
+
+.bg2{
+    background-image: url(../imagesVideos/Me\,\ Myself\ &\ I\ &\ HER\ -\ Copy.jpg);
+    width: 320px;
+    height: 530px;
+    margin-left: 220px;
+    margin-top: -300px;
+    background-size: 101%;
+   
+}
+
+.write2{
+    color:  rgb(176, 169, 169);
+    padding-right: 20%;
+    margin-top: -100px;
+    margin-left: 610px;
+    font-size: 22px;
+}
