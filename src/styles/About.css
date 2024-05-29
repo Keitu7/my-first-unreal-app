@@ -12,3 +12,104 @@
     margin-top: -380px;
     margin-left: -250px;
 }
+
+.home h2{
+    font-size: 140px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: 450px;
+    margin-left: -580px;
+}
+
+.designbkImage{
+    background-image: url(../imagesVideos/pexels-steve-1400190\ \(1\).jpg);
+    width: 1020px;
+    height: 320px;
+    margin-left: 480px;
+    margin-top: -180px;
+    background-size: 40%;
+}
+
+.designborder{
+    border: solid black 1.5px;
+    width: 1200px;
+    height: 1800px;
+    text-align: center;
+    margin: 200px;
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.design1{
+    color: bisque;
+    font-size: 20px;
+    padding-right: 100px;
+}
+
+.w1{
+    background-image: url(../imagesVideos/Original\ wireframe\ 1\ \(1\).jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 20px;
+    margin-top: -10px;
+    background-size: 100%;
+}
+
+.w2{
+    background-image: url(../imagesVideos/Original\ wireframe\ 2\ \(1\).jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 620px;
+    margin-top: -335px;
+    background-size: 100%;
+}
+
+.w3{
+    background-image: url(../imagesVideos/Current\ wireframe\ 1.jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-size: 100%;
+}
+
+.w4{
+    background-image: url(../imagesVideos/Current\ wireframe\ 2.jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 620px;
+    margin-top: -335px;
+    background-size: 100%;
+}
+
+.w5{
+    background-image: url(../imagesVideos/Current\ wireframe\ 3.jpg);
+    width: 600px;
+    height: 335px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-size: 100%;
+}
+
+.w6{
+    background-image: url(../imagesVideos/Colour\ scheme.jpg);
+    width: 600px;
+    height: 235px;
+    margin-left: 620px;
+    margin-top: -335px;
+    background-size: 100%;
+}
+
+.design2{
+    color: bisque;
+    font-size: 20px;
+    padding-right: 100px;
+    margin-top: 120px;
+}
+
+.design3{
+    color: bisque;
+    font-size: 20px;
+    padding-right: 100px;
+    margin-top: 60px;
+}
