@@ -49,35 +49,30 @@ function About() {
                 <h3>THEORY</h3>
                 <div className='theorybkImage'></div>
                 <div className='theoryborder'>
-                    <p className='design1'>The design process for the website was a unique journey, espcially considering the new library we had learnt this semester.
-                    I had to find the best suited theme to potray my new learnt skills and found that designing a portfolio would be better suited for me as learning and implementing all the learn knowledge of react was fairly overwhelming for me.
-                    Therefore, designing something familiar was a rather 'safer'option.
-                    Below are the wireframes, colour scheme and inspiration images/references.</p>
+                    <p className='design1'>This theory section discusses the Internet artwork I plan on working on and creating in the exam assignment for this website. 
+                    I wrote an essay earlier this year on what internet art is and studied an example of this term. I then discovered a piece by artist Olia Lialina called ‘My Boyfriend Came Back from the War’, in 1996. 
+                    This piece is a browser-artwork which uses unique materials and elements on the internet. 
+                    Similarly, this piece inspired me to attempt something close to this or at least aims to work in the way this piece uses hyperlinks as internet elements to tell a story.</p>
                     <div className='t1'></div>
                     <div className='t2'></div>
                     <p className='theory1'>
-                    Internet Art Rationale and Reflection:
-                    The colour palette explored and used throughout this website design makes use of tones of yellow, green, and a darker shade of blue. 
-                    This choice of colour scheme was an expression of my interest in more natural, calmer tones that spoke of a softer touch for the eye at first glance. 
-                    This site is a portfolio site which would mean essentially communicating who the designer is, my persona, and expression of personality. 
-                    The layout simply aims to guide the viewer through an uncomplicated user interface that represents and directly communicates my style of simplicity. 
-                    Inspired by a portfolio site by Shinya Okano, Shinya uses a simple interface that creates and allows for an uncomplicated smooth user experience of the interface elements throughout the site 
-                    – this helped me understand how to clearly communicate the simple User Interface that I wished to create without having bore a viewer with a too simplistic experience. 
-                    The layout is therefore straightforward, the website guides the user from the Homepage (white introduces the site designer) to the About page which leads to the design, theory, and internet art section, and lastly the Contact page. 
-                    The navigation bar and section links provide an easier lead through the page, and the site logo plays the Homepage link. The Font used also tries/aims to communicate the simple, calm, yet still interesting, eye-catching, 
-                    sophisticated natural organic theme the images, and colour scheme communicate. 
+                    Drawing inspiration and referencing this internet art piece, the idea is to tell one story with multiple narratives. The art will be in the piece’s ability to allow creative storytelling/narratives 
+                    all with different endings depending on what the user chooses. Essentially, the user will determine how they want their story to end, the piece will just provide the user with options, and they have to make the final choice. 
+                    This piece will reference Olia’s idea of having each outcome of the option as a hyperlink that the user selects, that selection/link will open another option which results in the story developing into a plot/narrative. 
+                    The plan for how I will present this? will depend on my coding skills at hand. Ideally, would prefer to have each link open up as a new mini screen on that same screen/page as the previous one opened, instead of the page being 
+                    clean/ new with each option selected. This idea references how Twine by Chris Klimas works, therefore I would like to add something different in terms of creativity– perhaps include images and icons in some areas, in place of plain text 
+                    that stand as hyperlinks that tell the story.
                     </p>
                     <p className='theory2'>
                     Dev Blog:
-                    The colour palette explored and used throughout this website design makes use of tones of yellow, green, and a darker shade of blue. 
-                    This choice of colour scheme was an expression of my interest in more natural, calmer tones that spoke of a softer touch for the eye at first glance. 
-                    This site is a portfolio site which would mean essentially communicating who the designer is, my persona, and expression of personality. 
-                    The layout simply aims to guide the viewer through an uncomplicated user interface that represents and directly communicates my style of simplicity. 
-                    Inspired by a portfolio site by Shinya Okano, Shinya uses a simple interface that creates and allows for an uncomplicated smooth user experience of the interface elements throughout the site 
-                    – this helped me understand how to clearly communicate the simple User Interface that I wished to create without having bore a viewer with a too simplistic experience. 
-                    The layout is therefore straightforward, the website guides the user from the Homepage (white introduces the site designer) to the About page which leads to the design, theory, and internet art section, and lastly the Contact page. 
-                    The navigation bar and section links provide an easier lead through the page, and the site logo plays the Homepage link. The Font used also tries/aims to communicate the simple, calm, yet still interesting, eye-catching, 
-                    sophisticated natural organic theme the images, and colour scheme communicate. 
+                    For a dev blog section, I would like to reflect on the skills taught, gained, and challenges faced in learning React and still trying to understand JavaScript itself. I indeed found this semester or season 3 of 
+                    Interactive Media very challenging and overwhelming in that I had not yet grasped vanilla JavaScript and I had to move on forward to React. With that said, in doing this assignment particularly, I did realize that my 
+                    design skills had improved since season 1. In this project, I got to learn how essential good UI and design can affect a user’s overall UX and impression of the site. Interactivity is crucial in enhancing user experience, 
+                    these two terms work hand in hand. How the user feels when moving from page to page, the wait time of every page load, the placement of navigational links, and the ease of navigating from page to page are what helps create
+                     the first impression.  Then the colour schemes and content of the site. Is the viewer blinded by the colours, irritated by the lack of friendly usability and consideration of those with special needs? And then the funness 
+                     of the site, is it so plain that it gives the user an impression that the designer could not care less? All of these considerations and elements have enlightened me about how much power UI and UX can have on a user’s end decision – 
+                     whether they end up using your product or not.  
+                    UI and UX hold the power as the determining factor and are therefore essential that they are great. This has thus led me to be more kinder with myself in terms of creating ‘a great’ website, for I still have a lot to learn!
                     </p>
                 </div>
 
@@ -149,4 +144,28 @@ export default About;
 image sourced: Photo by Steve Johnson: <https://www.pexels.com/photo/abstract-painting-1400190/>.Accessed: 29 May 2024.
 image sourced: Photo by Steve Johnson: <https://www.pexels.com/photo/pink-blue-green-and-yellow-abstract-painting-2007087/>. Accessed:29 May 2024.
 image sourced: TATE. Tate. Internet Art. Online. < https://www.tate.org.uk/art/art-terms/i/internet-art#:~:text=Internet%20art%20is%20art%20that,browser%20art%20and%20software%20art>. Date Accessed: 26 April 2024.
-image sourced: Photo by Steve Johnson: <https://www.pexels.com/photo/multicolored-abstract-painting-1509534/>.Accessed: 29 May 2024. */
+image sourced: Photo by Steve Johnson: <https://www.pexels.com/photo/multicolored-abstract-painting-1509534/>.Accessed: 29 May 2024. 
+
+•	DEAN, A. 2019. Artsy. 10 Artistic Masterpieces Meant to be Experienced Online. Online. < https://www.artsy.net/article/artsy-editorial-10-artistic-masterpieces-meant-experienced-online>. Date Accessed: 24 April 2024. 
+
+•	Eduardo Kac, Reabracadabra, 1985. Visual poem created and shown on the early telecommunication network Videotext, © courtesy of the artist and Rhizome.
+
+•	CARRIER, D. 2020. Hyperallergic. The Work of Art in the Age of the Internet. Online. < https://hyperallergic.com/563938/the-work-of-art-in-the-age-of-the-internet/>. Date Accessed: 25 April 2024.
+
+•	CHATEL, M. 2019. DANAE. Net Art, Post-internet Art, New Aesthetics: The Fundamentals of Arts on the Internet. Online. < Net Art, Post-internet Art, New Aesthetics: The Fundamentals of Art on the Internet | by DANAE | DANAE.IO | Medium>. Date Accessed: 23 April 2024.
+
+•	MCNAMARA, R. 2020. Hyperallergic. RIP Adobe Flash: Five Takeaways About the Plug-in’s Legacy in Net Art. Online. < https://hyperallergic.com/609682/rip-adobe-flash-five-takeaways-about-the-plug-ins-legacy-in-net-art/>. Date Accessed: 24 April 2024. 
+
+•	Olia Lialina, My Boyfriend Came Back from the War, 1996. Photo Franz Wamhof (cropped) via Net Art Anthology. 
+
+•	O’TOOLE, F. 2019. Hyperallergic. The New Museum Hits “Save” on Net Art. Online. < https://hyperallergic.com/485466/the-new-museum-hits-save-on-net-art/>. Date Accessed: 25 April 2024. 
+
+•	PAPANEK, V. 1984. Chapter 1: What is Design? Design for the Real World: Human Ecology and Social Change. China: Thames & Hudson, pp. 3-27. 
+
+•	RICCI, B. 2020. ARTLAND Magazine. Agents of Change: The Internet. Net Art and How The World Wide Web Has Created A New Medium. Online.   <https://magazine.artland.com/agents-of-change-internet-net-art-how-the-world-wide-web-has-affected-the-way-we-make-art/>. Date Accessed: 25 April 2024.
+
+•	SHARP, E. 2022. ProtoFuse. Is the Design In Website Design About Art? Online. 
+< https://protofuse.com/articles/is-website-design-art/#:~:text=Simply%20put%2C%20websites%20can%20be,artist%20creates%20something%20to%20appreciate>. Date Accessed: 23 April 2024.
+
+•	TATE. Tate. Internet Art. Online. < https://www.tate.org.uk/art/art-terms/i/internet-art#:~:text=Internet%20art%20is%20art%20that,browser%20art%20and%20software%20art>. Date Accessed: 26 April 2024. 
+*/
