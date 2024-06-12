@@ -7,10 +7,10 @@ function Home() {
         <div className='myName'>
         <div className='background'></div>
             <h1 className='symbol'> ^EITVWET5E</h1>
-            <h2 className='name'> KEITUMERCEDES</h2>
+            <p className='name'>KEITUMERCEDES</p>
             <p className='intro'>Visual Designer</p>   
             <div className='prompt'>
-                <h2 className='about'>I am an Aspiring Visual Designer</h2>
+                <h2 id='about'>I am an Aspiring Visual Designer</h2>
                 <p className='para1'> 
                    Great design has the power to captivate and move the attention of viewers in ways words, gestures and would similarly do - 
                    I am to eventually reach evoking the emtion of complete awe to my viewers.

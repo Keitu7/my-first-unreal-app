@@ -17,6 +17,7 @@
     font-size: 34px;
     margin: 20px;
     cursor: pointer;
+    transition: ease-out 0.3s;
 }
 
 .email:hover{

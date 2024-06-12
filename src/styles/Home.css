@@ -22,7 +22,7 @@
 
 .name {
     color: white;
-    margin-top: -94px;
+    margin-top: -90px;
     font-size: 78px;
     font-weight: lighter;
 }
@@ -30,14 +30,14 @@
 .intro{
     color: rgb(176, 169, 169);
     font-size: 40px;
-    margin-top: -330px;
-    margin-right: 400px;
+    margin-top: 300px;
+    margin-left: -1020px;
 }
 
-.about{
+#about{
     color: rgb(176, 169, 169);
     font-size: 170px;
-    margin-top: 600px;
+    margin-top: -90px;
     padding: 130px;
     margin-left: -150px;
     font-weight: lighter;
@@ -46,7 +46,7 @@
 .para1{
     color: rgb(176, 169, 169) ;
     padding-right: 48%;
-    margin-top: -10px;
+    margin-top: -80px;
     margin-left: 190px;
     font-size: 20px;
 }
