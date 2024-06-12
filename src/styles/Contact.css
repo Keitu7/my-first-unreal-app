@@ -13,12 +13,13 @@
     margin-left: -720px;
 }
 
-.emails {
+#email{
     color: white;
     margin-top: 140px;
     margin-left: 1040px;
     font-size: 35px;
     font-weight: lighter;
+    text-decoration: underline 1.5px;
     cursor: pointer;
 }
 
@@ -30,7 +31,7 @@
     padding: 49%;
 }
 
-.heading2{
+#heading2{
     color: rgb(176, 169, 169);
     font-size: 150px;
     margin-top: -600px;
@@ -46,7 +47,7 @@
     margin-left: 220px;
     margin-top: -300px;
     background-size: 101%;
-   
+   border-radius: 5px;
 }
 
 .write2{

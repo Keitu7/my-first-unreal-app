@@ -7,10 +7,10 @@ function Contact() {
             <div className='bg'></div>
             <div className='myName'>
                 <h1 className='heading'>Contact</h1>
-                <h2 className='emails'>@ keituMokg20@gmail.com</h2>
+                <h2 id='email'>@ keituMokg20@gmail.com</h2>
                 <p className='write'>Thank you for your interest. Please feel free to contact me with any business inquires, questions, requests, interest, etc.</p>   
                 <div className='prompt'>
-                    <h2 className='heading2'>Hi there!</h2>
+                    <h2 id='heading2'>Hi there!</h2>
                 
                     <p className='write2'> 
                        My name is Keitu Mokgabudi, Iam an animation and interactive student. I aspire to learn more on illustration and concept creation in the aniamtion field; 
