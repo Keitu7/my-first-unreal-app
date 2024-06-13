@@ -10,10 +10,11 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename='/my-first-unreal-app'>
+      <BrowserRouter basename="/my-first-unreal-app">
       <Router>
         <Navbar />
       <Routes>
+        <Route index element={<Home />} />
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/internetart' element={<InternetArt />} />
