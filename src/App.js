@@ -13,14 +13,14 @@ function App() {
       {/* <BrowserRouter basename="/my-first-unreal-app"> */}
       <Router>
         <Navbar />
-      <Routes>
-        <Route path='/my-first-unreal-app' element={<Home />} />
-        <Route path='/about' element={<About />} />
-        <Route path='/internetart' element={<InternetArt />} />
-        <Route path='/contact' element={<Contact />} />
-      </Routes>
-      <Footer/>
-     </Router>
+       <Routes>
+         <Route path='/' element={<Home />} />
+         <Route path='/about' element={<About />} />
+         <Route path='/internetart' element={<InternetArt />} />
+         <Route path='/contact' element={<Contact />} />
+       </Routes>
+       <Footer/>
+      </Router>
      {/* </BrowserRouter> */}
     </div>
   );
