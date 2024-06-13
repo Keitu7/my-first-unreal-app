@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/my-first-unreal-app">
+      {/* <BrowserRouter basename="/my-first-unreal-app"> */}
       <Router>
         <Navbar />
       <Routes>
@@ -21,7 +21,7 @@ function App() {
       </Routes>
       <Footer/>
      </Router>
-     </BrowserRouter>
+     {/* </BrowserRouter> */}
     </div>
   );
 }
