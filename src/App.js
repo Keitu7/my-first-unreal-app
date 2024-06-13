@@ -14,7 +14,7 @@ function App() {
       <Router>
         <Navbar />
       <Routes>
-        <Route path='/home' element={<Home />} />
+        <Route path='/my-first-unreal-app' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/internetart' element={<InternetArt />} />
         <Route path='/contact' element={<Contact />} />
