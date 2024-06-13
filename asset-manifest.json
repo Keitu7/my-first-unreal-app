@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-first-unreal-app/static/css/main.bdd4301f.css",
-    "main.js": "/my-first-unreal-app/static/js/main.52114bd4.js",
+    "main.js": "/my-first-unreal-app/static/js/main.a5d63fa9.js",
     "static/js/453.d4ad5d12.chunk.js": "/my-first-unreal-app/static/js/453.d4ad5d12.chunk.js",
     "static/media/pexels-jdgromov-7974827.jpg": "/my-first-unreal-app/static/media/pexels-jdgromov-7974827.ffe129d806b026e37c1f.jpg",
     "static/media/pexels-george-desipris-899238.jpg": "/my-first-unreal-app/static/media/pexels-george-desipris-899238.eab71f05f075bb6482c3.jpg",
@@ -22,11 +22,11 @@
     "static/media/pexels-rkftr-4335772.jpg": "/my-first-unreal-app/static/media/pexels-rkftr-4335772.106a873acefbaa08030a.jpg",
     "index.html": "/my-first-unreal-app/index.html",
     "main.bdd4301f.css.map": "/my-first-unreal-app/static/css/main.bdd4301f.css.map",
-    "main.52114bd4.js.map": "/my-first-unreal-app/static/js/main.52114bd4.js.map",
+    "main.a5d63fa9.js.map": "/my-first-unreal-app/static/js/main.a5d63fa9.js.map",
     "453.d4ad5d12.chunk.js.map": "/my-first-unreal-app/static/js/453.d4ad5d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdd4301f.css",
-    "static/js/main.52114bd4.js"
+    "static/js/main.a5d63fa9.js"
   ]
 }
