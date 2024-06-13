@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
 import Home from './pagesComponents/Home';
 import About from './pagesComponents/About';
 import InternetArt from './pagesComponents/InternetArt';
@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
+      <BrowserRouter basename='/my-first-unreal-app'>
       <Router>
         <Navbar />
       <Routes>
@@ -20,6 +21,7 @@ function App() {
       </Routes>
       <Footer/>
      </Router>
+     </BrowserRouter>
     </div>
   );
 }
