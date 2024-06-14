@@ -4,10 +4,10 @@ import '../styles/Contact.css';
 function Contact() {
     return (
         <div className='home'>
-            <div className='bg'></div>
+            <div className='u-photo bg'></div>
             <div className='myName'>
                 <h1 className='heading'>Contact</h1>
-                <h2 id='email'>@ keituMokg20@gmail.com</h2>
+                <h2 id='u-email'>@ keituMokg20@gmail.com</h2>
                 <p className='write'>Thank you for your interest. Please feel free to contact me with any business inquires, questions, requests, interest, etc.</p>   
                 <div className='prompt'>
                     <h2 id='heading2'>Hi there!</h2>
@@ -18,7 +18,7 @@ function Contact() {
                        I aim to grow my knowledge in website design, moreover still as a student in this field, I do believe there is still much to learn. 
                        This site piece is one still much in progress and I hope to grow with it as I learn more on providing its viewers with designs that will bring beauty and creatvity their user experience.
                     </p>
-                    <div className='bg2'></div>
+                    <div className='u-photo bg2'></div>
                 </div>
             </div>
         </div>

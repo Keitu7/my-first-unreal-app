@@ -4,7 +4,7 @@ import '../styles/Footer.css';
 function Footer(){
     return <div className='footer'>
         <>
-        <h3 className='email'>
+        <h3 className='u- email'>
             @ keituMokg20@gmail.com
         </h3>
         </>

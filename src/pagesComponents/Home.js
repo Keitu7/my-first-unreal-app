@@ -6,9 +6,9 @@ function Home() {
     return (
     <div className='home'>
         <div className='myName'>
-        <div className='background'></div>
+        <div className='u-photo background'></div>
             <h1 className='symbol'> ^EITVWET5E</h1>
-            <p className='name'>KEITUMERCEDES</p>
+            <p className='h-card'>KEITUMERCEDES</p>
             <p className='intro'>Visual Designer</p>   
             <div className='prompt'>
                 <h2 id='about'>I am an Aspiring Visual Designer</h2>
@@ -26,23 +26,23 @@ function Home() {
         </div>
         <>
          <h3 id='designHeading'>DESIGN</h3>
-         <div className='designBox'></div>
+         <div className='u-photo designBox'></div>
          <p className='popText'>The design process coming into existance of the site, with every click enjoyable</p>
-         <p><Link to='/about' className='button'>LET'S GO</Link></p>
+         <p><Link to='/about' className='u-url button'>LET'S GO</Link></p>
 
          <h3 id='theoryHeading'>THEORY</h3>
-         <div className='theoryBox'></div>
+         <div className='u-photo theoryBox'></div>
          <p className='popText'>The theory section reflects on the technical challenges and process of creating the site</p>
-         <p><Link to='/about' className='button'>LET'S GO</Link></p>
+         <p><Link to='/about' className='u-url button'>LET'S GO</Link></p>
 
          <h3 id='internetHeading'>NET ART</h3>
-         <div className='internetBox'></div>
+         <div className='u-photo internetBox'></div>
          <p className='popText'>The internet art aims to tell a story through a connected series of hyperlinks </p>
-         <p><Link to='/internetart' className='button'>LET'S GO</Link></p>
+         <p><Link to='/internetart' className='u-url button'>LET'S GO</Link></p>
         </>
 
         <h1 className='symbolEnd'> ^EITVWET5E</h1>
-        <p className='nameEnd'>KEITUMERCEDES</p>
+        <p className='h-cardEnd'>KEITUMERCEDES</p>
     </div>
     );
 }

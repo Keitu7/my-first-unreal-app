@@ -63,7 +63,7 @@ function About() {
                     clean/ new with each option selected. This idea references how Twine by Chris Klimas works, therefore I would like to add something different in terms of creativity– perhaps include images and icons in some areas, in place of plain text 
                     that stand as hyperlinks that tell the story.
                     </p>
-                    <p className='theory2'>
+                    <p className='h-entry theory2'>
                     Dev Blog:
                     For a dev blog section, I would like to reflect on the skills taught, gained, and challenges faced in learning React and still trying to understand JavaScript itself. I indeed found this semester or season 3 of 
                     Interactive Media very challenging and overwhelming in that I had not yet grasped vanilla JavaScript and I had to move on forward to React. With that said, in doing this assignment particularly, I did realize that my 
