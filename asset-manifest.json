@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-first-unreal-app/static/css/main.4e214d3e.css",
-    "main.js": "/my-first-unreal-app/static/js/main.9fe7700c.js",
+    "main.css": "/my-first-unreal-app/static/css/main.08ba3fa1.css",
+    "main.js": "/my-first-unreal-app/static/js/main.dbd84c12.js",
     "static/js/453.d4ad5d12.chunk.js": "/my-first-unreal-app/static/js/453.d4ad5d12.chunk.js",
     "static/media/pexels-jdgromov-7974827.jpg": "/my-first-unreal-app/static/media/pexels-jdgromov-7974827.e580caf93a1340b73d73.jpg",
     "static/media/pexels-zafer-erdogan-49915050-8514143 (1).jpg": "/my-first-unreal-app/static/media/pexels-zafer-erdogan-49915050-8514143 (1).741ae9d812d91d3abfa0.jpg",
@@ -24,12 +24,12 @@
     "static/media/pexels-rkftr-4335772.jpg": "/my-first-unreal-app/static/media/pexels-rkftr-4335772.cb2fb0ec5ab8f51fa447.jpg",
     "static/media/Picture2.jpg": "/my-first-unreal-app/static/media/Picture2.520a734ca755c833b4d6.jpg",
     "index.html": "/my-first-unreal-app/index.html",
-    "main.4e214d3e.css.map": "/my-first-unreal-app/static/css/main.4e214d3e.css.map",
-    "main.9fe7700c.js.map": "/my-first-unreal-app/static/js/main.9fe7700c.js.map",
+    "main.08ba3fa1.css.map": "/my-first-unreal-app/static/css/main.08ba3fa1.css.map",
+    "main.dbd84c12.js.map": "/my-first-unreal-app/static/js/main.dbd84c12.js.map",
     "453.d4ad5d12.chunk.js.map": "/my-first-unreal-app/static/js/453.d4ad5d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e214d3e.css",
-    "static/js/main.9fe7700c.js"
+    "static/css/main.08ba3fa1.css",
+    "static/js/main.dbd84c12.js"
   ]
 }
