@@ -6,7 +6,7 @@
 }
 
 .background{
-    background-image: url(../imagesVideos/pexels-george-desipris-899238.jpg);
+    background-image: url(../imagesVideos/pexels-zafer-erdogan-49915050-8514143\ \(1\).jpg);
     width: 100%;
     height: 700px;
     background-size: 100%;
@@ -41,12 +41,18 @@
     padding: 130px;
     margin-left: -150px;
     font-weight: lighter;
+    transition: ease-out 0.5s;
+}
+
+#about:hover{
+    text-shadow: 2px 12px rgba(0, 0, 0, 0.278);
+    cursor: pointer;
 }
 
 .para1{
     color: rgb(176, 169, 169) ;
     padding-right: 48%;
-    margin-top: -80px;
+    margin-top: -95px;
     margin-left: 190px;
     font-size: 20px;
 }
@@ -57,4 +63,98 @@
     margin-top: 40px;
     margin-left: 190px;
     font-size: 20px;
+}
+
+#designHeading {
+    color: white;
+    margin-top: 150px;
+}
+
+.designBox{
+    background-image: url(../imagesVideos/pexels-yigit-efe-seref-598588374-17181917\ \(1\).jpg);
+    height: 460px;
+    width: 1350px;
+    background-size: 100%;
+    margin-left: 168px;
+    margin-top: -200px;
+   
+}
+
+.popText{
+    color: rgba(255, 255, 255, 0);
+    font-size: 25px;
+    padding: 0px 890px;
+    margin-top: -140px;
+    margin-left: -690px;
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+}
+
+.popText:hover{
+    color: white;
+}  
+
+.button{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 1300px;
+    font-size: 17px;
+}
+
+.button:hover{
+    text-decoration: overline underline;
+}
+
+#theoryHeading {
+    color: white;
+    margin-top: 200px;
+}
+
+.theoryBox{
+    background-image: url(../imagesVideos/pexels-maxavans-5058840\ \(2\)\ \(1\).jpg);
+    height: 460px;
+    width: 1350px;
+    background-size: 100%;
+    margin-left: 168px;
+    margin-top: -200px;
+   
+}
+
+#internetHeading {
+    color: white;
+    margin-top: 200px;
+}
+
+.internetBox{
+    background-image: url(../imagesVideos/pexels-james-bond-756164766-19975121\ \(1\).jpg);
+    height: 460px;
+    width: 1350px;
+    background-size: 100%;
+    margin-left: 168px;
+    margin-top: -200px;
+   
+}
+
+.symbolEnd {
+    font-size: 99px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 250px;
+    transition: ease-out 0.5s;
+}
+
+.nameEnd {
+    color: white;
+    margin-top: -90px;
+    font-size: 78px;
+    font-weight: lighter;
+    transition: ease-out 0.5s;
+}
+
+.symbolEnd:hover{
+    text-shadow: 2px 12px rgba(0, 0, 0, 0.278);
+}
+
+.nameEnd:hover{
+    text-shadow: 2px 12px rgba(0, 0, 0, 0.278);
 }

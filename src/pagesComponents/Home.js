@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Home.css';
+import { Link} from 'react-router-dom';
 
 function Home() {
     return (
@@ -16,13 +17,32 @@ function Home() {
                    I am to eventually reach evoking the emtion of complete awe to my viewers.
                 </p>
                 <p className='para2'> 
-                   My name is Keitu Mokgabudi, an animation and interactive student. I aspire to learn more on illustration and concept creation in the aniamtion field; 
+                   My name is Keitu Mokgabudi, an animation and interactive media student. I aspire to learn more on illustration and concept creation in the aniamtion field; 
                    to learn more and eventually specialize in interactive website designs that evoke the ease of user interactivity and experience and evoke emothional feelings.
                    I aim to grow my knowledge in website design, moreover still as a student in this field, I do believe there is still much to learn. 
                    This site piece is one still much in progress and I hope to grow with it as I learn more on providing its viewers with designs that will bring beauty and creatvity their user experience.
                 </p>
             </div>
         </div>
+        <>
+         <h3 id='designHeading'>DESIGN</h3>
+         <div className='designBox'></div>
+         <p className='popText'>The design process coming into existance of the site, with every click enjoyable</p>
+         <p><Link to='/about' className='button'>LET'S GO</Link></p>
+
+         <h3 id='theoryHeading'>THEORY</h3>
+         <div className='theoryBox'></div>
+         <p className='popText'>The theory section reflects on the technical challenges and process of creating the site</p>
+         <p><Link to='/about' className='button'>LET'S GO</Link></p>
+
+         <h3 id='internetHeading'>NET ART</h3>
+         <div className='internetBox'></div>
+         <p className='popText'>The internet art aims to tell a story through a connected series of hyperlinks </p>
+         <p><Link to='/internetart' className='button'>LET'S GO</Link></p>
+        </>
+
+        <h1 className='symbolEnd'> ^EITVWET5E</h1>
+        <p className='nameEnd'>KEITUMERCEDES</p>
     </div>
     );
 }

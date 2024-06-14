@@ -34,10 +34,15 @@
 #heading2{
     color: rgb(176, 169, 169);
     font-size: 150px;
-    margin-top: -600px;
+    margin-top: -650px;
     padding: 130px;
     margin-left: -390px;
     font-weight: lighter;
+    transition: ease-in-out 0.5s;
+}
+
+#heading2:hover{
+    text-shadow: 2px 12px rgba(0, 0, 0, 0.278);
 }
 
 .bg2{
