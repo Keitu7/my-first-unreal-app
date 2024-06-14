@@ -50,5 +50,4 @@ function Home() {
 export default Home;
 
 /*image source: Photo by GEORGE DESIPRIS:< https://www.pexels.com/photo/black-cruiser-motorcycle-899238/>. Accessed: 29 May 2024.*
-Code and deplay a react Portfolio - React Personal Portfolio Website. 2 June 22.Accessed: 20 May 2024.
-Open AI.prompt: Navbar router-dom in react Accessed: 29 May 2024.*/
+Code and deplay a react Portfolio - React Personal Portfolio Website. 2 June 22.Accessed: 20 May 2024.*/
