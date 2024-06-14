@@ -1,0 +1,25 @@
+#computerBoarder{
+    border: solid black 3px;
+    background-color: rgba(186, 240, 123, 0.596);
+    width: 900px;
+    height: 600px;
+    text-align: center;
+    margin: 0px 300px;
+    margin-top: 200px;
+}
+
+.secondImage{
+    background-image: url(../imagesVideos/pexels-polina-tankilevitch-4829014\ \(1\).jpg);
+    width: 900px;
+    height: 300px;
+    margin-left: 0px;
+    background-size: 100%;
+}
+
+#secondSen{
+    font-size: 100px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: 60px;
+    margin-left: 0px;
+}

@@ -5,21 +5,54 @@
     background-size: 100%;
 }
 
+#story{
+    font-size: 100px;
+    font-weight: lighter;
+    color: bisque;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+
 .artBorder{
     border: solid black 3px;
+    background-color: rgba(186, 240, 123, 0.596);
     width: 900px;
     height: 500px;
     text-align: center;
     margin: 300px;
     padding: 20px;
-    margin-top: 290px;
+    margin-top: 70px;
 }
 
-.artHeading{
+.helloImage{
+    background-image: url(../imagesVideos/pexels-aksenovfoto-8604016\ \(1\).jpg);
+    width: 940px;
+    height: 400px;
+    margin-left: -20px;
+    margin-top: -20px;
+    background-size: 100%;
+}
+
+.firstQuestion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.firstQuestion a {
+    color: black;
+    margin: 22px;
+    font-size: 34px;
+}
+
+#artHeading{
     font-size: 140px;
     font-weight: lighter;
     color: bisque;
-    margin-top: -170px;
+    margin-top: -140px;
     margin-left: -280px;
 }
 
@@ -28,7 +61,7 @@
     width: 1020px;
     height: 360px;
     margin-left: 480px;
-    margin-top: -180px;
+    margin-top: -170px;
     background-size: 40%;
 }
 

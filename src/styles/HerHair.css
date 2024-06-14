@@ -1,0 +1,25 @@
+#computerBoarder{
+    border: solid black 3px;
+    background-color: rgba(186, 240, 123, 0.596);
+    width: 900px;
+    height: 600px;
+    text-align: center;
+    margin: 0px 300px;
+    margin-top: 200px;
+}
+
+.thirdImage{
+    background-image: url(../imagesVideos/pexels-vlada-karpovich-4668541.jpg);
+    width: 900px;
+    height: 300px;
+    margin-left: 0px;
+    background-size: 100%;
+}
+
+#thirdSen{
+    font-size: 100px;
+    font-weight: lighter;
+    color: bisque;
+    margin-top: 60px;
+    margin-left: 0px;
+}
